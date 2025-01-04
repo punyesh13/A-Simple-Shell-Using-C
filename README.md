@@ -2,6 +2,6 @@
 Tried to make a simple shell in c language.
 
 Imstall Ubuntu and run 
-gcc filename.c
+gcc shell.c
 ./a.out
 
